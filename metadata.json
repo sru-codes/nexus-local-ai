@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS — Local AI Intelligence Workspace",
+  "description": "Private, fast, intelligent on-device AI workspace optimized for Snapdragon-powered HP PCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
